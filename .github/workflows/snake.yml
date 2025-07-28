@@ -11,22 +11,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # THIS IS THE NEW, IMPORTANT PART
+    permissions:
+      contents: write
+
     steps:
-      # This is the latest version of the checkout action
       - uses: actions/checkout@v4
       
-      # This is the latest version of the snake action
       - uses: Platane/snk@v3
         with:
-          # Your GitHub username is directly provided for reliability
           github_user_name: ${{ github.repository_owner }}
-          
-          # The output files that will be generated
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # This action pushes the generated files to the output branch
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
