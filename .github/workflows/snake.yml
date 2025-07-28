@@ -19,7 +19,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # Your GitHub username is directly provided for reliability
-          github_user_name: AnasMalek12
+          github_user_name: ${{ github.repository_owner }}
           
           # The output files that will be generated
           outputs: |
