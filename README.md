@@ -50,6 +50,7 @@
       <h3>📊 My GitHub Stats</h3>
       <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnasMalek12&show_icons=true&locale=en&theme=dracula&line_height=27" alt="github-stats" />
+        <hr>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasMalek12&layout=compact&theme=dracula" alt="top-langs" />
       </p>
     </td>
