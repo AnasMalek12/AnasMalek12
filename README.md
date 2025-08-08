@@ -9,8 +9,8 @@
   <a href="https://www.instagram.com/anasmalek12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://anasmalek12.netlify.app/" alt="Portfolio"/>
+  <a href="https://anasmalek12.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
   <a href="mailto:connectwithanasmalek@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
