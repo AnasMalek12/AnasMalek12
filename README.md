@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Welcome+to+my+Digital+Playground!;I'm+a+Full-Stack+Developer...;My+Name+Is+Anas+Malek;a+Lifelong+Learner...;a+Problem+Solver...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Welcome+to+my+Digital+Playground!;I'm+a+Full-Stack+Developer...;My+Name+Is+Anas+Malek...;a+Lifelong+Learner...;a+Problem+Solver...;" alt="Typing SVG" />
 </p>
 
 ---
