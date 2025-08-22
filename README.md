@@ -33,18 +33,18 @@
         I'm a passionate developer from Nadiad, Gujarat with a love for building innovative and impactful solutions. My journey in tech is driven by a curiosity to learn and a desire to turn complex problems into elegant software.
       </p>
       <ul>
-        <li>🌱 I’m currently mastering <strong>[New Technology, e.g., Go & gRPC]</strong>.</li>
+        <li>🌱 I’m currently mastering <strong> MERN Stack Development </strong>.</li>
         <li>👯 I’m open to collaborating on <strong>open-source projects related to AI or developer tools</strong>.</li>
-        <li>💬 Ask me anything about <strong>React, Python, or Cloud Architecture</strong>!</li>
+        <li>💬 Ask me anything about <strong>React, Flutter, or Cloud Architecture</strong>!</li>
         <li>📫 How to reach me? Check out my social links above!</li>
       </ul>
       <hr/>
       <h3>🛠️ My Tech Arsenal</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,py,django,fastapi,postgres,mongodb,docker,gcp,aws,git,vscode,figma&perline=5" />
-        </a>
-      </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,mongodb,express,angular,react,nodejs,androidstudio,flutter,dart,kotlin,firebase,php,mysql,dotnet,docker,kubernetes&perline=5" />
+      </a>
+  </p>
     </td>
     <td valign="top" width="40%">
       <h3>📊 My GitHub Stats</h3>
