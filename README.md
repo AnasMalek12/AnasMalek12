@@ -48,10 +48,12 @@
     </td>
     <td valign="top" width="40%">
       <h3>📊 My GitHub Stats</h3>
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnasMalek12&show_icons=true&locale=en&theme=dracula&line_height=27" alt="github-stats" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnasMalek12&theme=whatsapp-dark2&border_radius=26&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
         <hr>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasMalek12&layout=compact&theme=dracula" alt="top-langs" />
+      <a href="https://github.com/AnasMalek12">
+  <a href="https://github.com/AnasMalek12">
+  <img src="https://github-stats-extended.vercel.app/api?username=AnasMalek12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark" />
+</a>
       </p>
     </td>
   </tr>
